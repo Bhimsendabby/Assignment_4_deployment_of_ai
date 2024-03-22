@@ -1,4 +1,4 @@
-# Assignment_4_deployment_of_ai
+# Spotify Data Analysis
 spotify artists and tracks dataset visualization using python
 
 ### Dataset URL:- https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?resource=download
