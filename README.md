@@ -1,6 +1,8 @@
 # Assignment_4_deployment_of_ai
 spotify artists and tracks dataset visualization using python
 
+### Dataset URL:- https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?resource=download
+
 ## Dataset Access
 The dataset used in this project can be accessed from [provide_dataset_link_here]. Make sure to place the dataset in the `data/` directory.
 
