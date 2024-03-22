@@ -25,5 +25,5 @@ We checked for outliers in the dataset using [mention the methods or techniques 
 pip install -r requirements.txt
 
 3. Run the script:
-python Assignment_4_Deploymeny_ai.ipynb
+python data-preprocessing.ipynb
 
